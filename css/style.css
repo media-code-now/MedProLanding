@@ -7082,7 +7082,7 @@ html.tablet .ui-to-top {
 	position: relative;
 	display: inline-block;
 	color: #151515;
-	font-size: 15px;
+	font-size: 18px;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
 	font-weight: 500;
@@ -10349,7 +10349,7 @@ html.rd-navbar-fixed-linked .page {
 	font-size: 15px;
 	line-height: 1;
 	letter-spacing: .1em;
-	color: rgba(255, 255, 255, 0.4);
+	color: rgb(255, 255, 255);
 	background: transparent;
 }
 
