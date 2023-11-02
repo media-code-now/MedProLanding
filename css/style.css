@@ -10323,7 +10323,7 @@ html.rd-navbar-fixed-linked .page {
 
 .nav-tabs-modern {
 	flex-direction: column;
-	background: #272727;
+	background: #e2e6ec;
 	padding: 30px 25px;
 }
 
@@ -10349,7 +10349,7 @@ html.rd-navbar-fixed-linked .page {
 	font-size: 15px;
 	line-height: 1;
 	letter-spacing: .1em;
-	color: rgb(255, 255, 255);
+	color: #000;
 	background: transparent;
 }
 
@@ -10366,7 +10366,7 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .nav-tabs-modern .nav-link:hover, .nav-tabs-modern .nav-link.active {
-	color: #ffffff;
+	color: #000000;
 	background: transparent;
 }
 
