@@ -14046,3 +14046,71 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 .slider-dots .item.slick-current .slick-dot-item img {
 	box-shadow: 4px 8px 8px rgba(21, 21, 21, 0.25);
 }
+
+@media (min-width:320px)  { 
+	.rd-navbar-fixed .rd-navbar-brand{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.mbl-btn{
+	background-color: #2196f3; /* Green */
+  border: none;
+  color: white;
+  padding: 4px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: 3px;
+  display: block;
+}
+}
+@media (min-width:481px)  {
+
+	.rd-navbar-fixed .rd-navbar-brand{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.mbl-btn{
+	background-color: blue; /* Green */
+  border: none;
+  color: white;
+  padding: 4px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: 3px;
+  display: block;
+}
+
+}
+
+
+@media (min-width:641px)  { 
+	.mbl-btn{
+	display: none;
+}
+ }
+@media (min-width:961px)  {
+		.mbl-btn{
+	display: none;
+}
+}
+@media (min-width:1025px) {
+		.mbl-btn{
+	display: none;
+}
+}
+@media (min-width:1281px) {
+	.mbl-btn{
+	display: none;
+}
+}
+
+
+
