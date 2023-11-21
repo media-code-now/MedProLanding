@@ -143,7 +143,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, [class^=
 
 h1,
 .heading-1 {
-	font-size: 32px;
+	font-size: 50px;
 	line-height: 1.5;
 	text-transform: uppercase;
 }
@@ -14054,7 +14054,7 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 }
 
 .mbl-btn{
-	background-color: #2196f3; /* Green */
+	background-color: #2a95ec; /* Green */
   border: none;
   color: white;
   padding: 4px 20px;
